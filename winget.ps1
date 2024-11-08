@@ -82,7 +82,8 @@ $InstallPackages = @(
     "Citrix.Workspace",
     "VMware.HorizonClient",
     "DominikReichl.KeePass",
-    "WiresharkFoundation.Wireshark"
+    "WiresharkFoundation.Wireshark",
+    "baremetalsoft.baretail"
 )
 
 # Resolve Winget executable path
