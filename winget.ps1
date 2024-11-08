@@ -1,9 +1,9 @@
-# If you make changes to this script, please ensure that you update the corresponding version in AVD Hosts A.
+# If you make changes to this script, please ensure that you update the corresponding version
 #
 # Test this script in the "NT Authority\System" Context using PSEXEC: Psexec.exe -i -s C:\WINDOWS\system32\WindowsPowerShell\v1.0\powershell.exe -accepteula
-
+#
 # This script will install and remove software via Winget Package Manager
-# Location: AVD Hosts B/scripts/winget-ps-wrapper.ps1
+#
 # Version: 1.1
 
 
