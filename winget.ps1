@@ -83,7 +83,7 @@ $InstallPackages = @(
     "VMware.HorizonClient",
     "DominikReichl.KeePass",
     "WiresharkFoundation.Wireshark",
-    "baremetalsoft.baretail"
+    "snakefoot.snaketail"
 )
 
 # Resolve Winget executable path
