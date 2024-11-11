@@ -69,21 +69,7 @@ else {
 # Packages to install
 $InstallPackages = @(
     "Adobe.Acrobat.Reader.64-bit",
-    "Microsoft.AzureCLI",
-    "Microsoft.Git",
-    "Microsoft.FSLogix",
-    "Microsoft.VisualStudioCode",
-    "JGraph.Draw",
-    "Notepad++",
-    "Microsoft.Azure.StorageExplorer",
-    "Microsoft.PowerShell",
-    "7zip.7zip",
-    "PuTTY.PuTTY",
-    "Citrix.Workspace",
-    "VMware.HorizonClient",
-    "DominikReichl.KeePass",
-    "WiresharkFoundation.Wireshark",
-    "snakefoot.snaketail"
+    "Microsoft.AzureCLI"
 )
 
 # Resolve Winget executable path
