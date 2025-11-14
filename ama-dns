@@ -1,0 +1,24 @@
+## Azure Arc
+10.201.4.81     gbl.his.arc.azure.com
+10.201.4.82     uks.his.arc.azure.com
+10.201.4.83     uk-ats.his.arc.azure.com
+10.201.4.84     agentserviceapi.guestconfiguration.azure.com
+10.201.4.85     uksouth-gas.guestconfiguration.azure.com
+10.201.4.86     uksouth.dp.kubernetesconfiguration.azure.com
+
+
+## Azure AMA
+10.201.4.69    dd056b7a-b202-4347-a199-0e656acead3b.oms.opinsights.azure.com
+10.201.4.70    dd056b7a-b202-4347-a199-0e656acead3b.ods.opinsights.azure.com
+10.201.4.71    dd056b7a-b202-4347-a199-0e656acead3b.agentsvc.azure-automation.net
+10.201.4.78    api.monitor.azure.com
+10.201.4.79    global.in.ai.monitor.azure.com
+10.201.4.72    profiler.monitor.azure.com
+10.201.4.73    live.monitor.azure.com
+10.201.4.74    diagservices-query.monitor.azure.com
+10.201.4.75    snapshot.monitor.azure.com
+10.201.4.76    scadvisorcontentpl.blob.core.windows.net
+10.201.4.80    global.handler.control.monitor.azure.com
+10.201.4.87    dce-cua-azarc-xnd2.uksouth-1.handler.control.monitor.azure.com
+10.201.4.88    dce-cua-azarc-xnd2.uksouth-1.ingest.monitor.azure.com
+10.201.4.89    dce-cua-azarc-xnd2.uksouth-1.metrics.ingest.monitor.azure.com
